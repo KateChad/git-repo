@@ -1,7 +1,2 @@
-<<<<<<< HEAD
+
 print("goodbye")
-=======
-print("Hello world")
-print("Hello world")
->>>>>>> main
-print("Hello world")
